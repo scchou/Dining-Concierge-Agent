@@ -1,3 +1,6 @@
 # Dining-Concierge-Agent
 Project Assignment -- COMSE6998 Cloud Computing and Big Data <br>
 https://sc4400-demo.s3.amazonaws.com/index.html
+
+# Architecture
+![architecture](https://user-images.githubusercontent.com/43797430/66260983-f9e11f80-e793-11e9-8720-5621f2e8a456.jpg)
