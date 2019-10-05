@@ -19,7 +19,7 @@ https://sc4400-demo.s3.amazonaws.com/index.html
 * User: I need some restaurant suggestions.
 * Bot: Great. I can help you with that. What city or city area are you looking to dine in?
 * User: Manhattan
-* Bot: Got it, Manhattan. What cuisine would you like to try?
+* Bot: What cuisine would you like to try?
 * User: Japanese
 * Bot: Ok, how many people are in your party?
 * User: Two
@@ -27,8 +27,6 @@ https://sc4400-demo.s3.amazonaws.com/index.html
 * User: Today
 * Bot: What time?
 * User: 12:00pm
-* Bot: Here are my Japanese restaurant suggestions for 2 people, for today at 7 pm: 1.
-Sushi Nakazawa, located at 23 Commerce St, 2. Jin Ramen, located at 3183 Broadway,
-3. Nikko, located at 1280 Amsterdam Ave. Enjoy your meal
+* Bot: My Japanese place suggestions for 2 people on 2019-10-05 at 12:00 in Manhattan: 1. Ootoya Chelsea located at 8 W 18th St. 2. Izakaya MEW located at 53 W 35th St. 3. nonono located at 118 Madison Ave. Enjoy your meal!
 * User: Thank you!
-* Bot:
+* Bot: You are welcome! Thanks for using the service. See you next time!
